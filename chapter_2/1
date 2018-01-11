@@ -1,0 +1,11 @@
+names = ['paula','frank','lisa','gabe','gena','sammy','tony']
+msg1 = "my name is "
+msg2 = " and i am a friend of frank"
+
+print(msg1.title() + names[0].title() + msg2.title() + "'s") 
+print(msg1.title() + names[1].title() + msg2.title()) 
+print(msg1.title() + names[2].title() + msg2.title()) 
+print(msg1.title() + names[3].title() + msg2.title()) 
+print(msg1.title() + names[4].title() + msg2.title()) 
+print(msg1.title() + names[5].title() + msg2.title()) 
+print(msg1.title() + names[6].title() + msg2.title()) 

@@ -1,0 +1,1142 @@
+/usr/lib64/python3.4/site-packages/matplotlib/colors.py:298: MatplotlibDeprecationWarning: The is_string_like function was deprecated in version 2.1.
+  if cbook.is_string_like(arg):
+/usr/lib64/python3.4/site-packages/matplotlib/colors.py:351: MatplotlibDeprecationWarning: The is_string_like function was deprecated in version 2.1.
+  if not cbook.is_string_like(arg) and cbook.iterable(arg):
+/usr/lib64/python3.4/site-packages/matplotlib/colors.py:765: MatplotlibDeprecationWarning: The is_string_like function was deprecated in version 2.1.
+  not cbook.is_string_like(colors[0]):
+
+Bad key "xtick.bottom" on line 235 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.vertical" on line 374 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "hist.bins" on line 40 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.medianprops.linewidth" on line 367 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.boxprops.linestyle" on line 345 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.whiskerprops.color" on line 375 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.flierprops.color" on line 350 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "axes.titlepad" on line 177 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "figure.titlesize" on line 302 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "axes.autolimit_mode" on line 213 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "axes.formatter.offset_threshold" on line 200 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "date.autoformatter.hour" on line 226 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.meanprops.markersize" on line 365 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "lines.dashdot_pattern" on line 19 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "xtick.major.bottom" on line 247 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.meanprops.marker" on line 362 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "ytick.minor.right" on line 267 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "xtick.major.top" on line 246 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.capprops.color" on line 347 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "markers.fillstyle" on line 24 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "lines.scale_dashes" on line 21 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "axes.spines.bottom" on line 216 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.capprops.linewidth" on line 349 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.whiskers" on line 378 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "date.autoformatter.year" on line 223 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.capprops.linestyle" on line 348 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.showbox" on line 370 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "ytick.alignment" on line 268 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "animation.html" on line 519 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.meanprops.linestyle" on line 359 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "ytick.right" on line 253 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.meanprops.color" on line 358 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "date.autoformatter.microsecond" on line 229 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.whiskerprops.linestyle" on line 376 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.showfliers" on line 372 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.whiskerprops.linewidth" on line 377 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.bootstrap" on line 343 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.meanprops.markerfacecolor" on line 363 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.medianprops.linestyle" on line 366 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.boxprops.linewidth" on line 346 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "ytick.left" on line 252 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "legend.facecolor" on line 295 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "xtick.minor.bottom" on line 249 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "ytick.major.right" on line 265 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.flierprops.linestyle" on line 351 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "date.autoformatter.day" on line 225 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.notch" on line 368 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "scatter.marker" on line 340 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "date.autoformatter.month" on line 224 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "date.autoformatter.minute" on line 227 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+/usr/lib64/python3.4/site-packages/matplotlib/__init__.py:1039: UserWarning: Bad val "None" on line #293
+	"legend.framealpha    : None    # opacity of legend frame
+"
+	in file "/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle"
+	Key legend.framealpha: Could not convert "None" to float
+  (val, error_details, msg))
+
+Bad key "errorbar.capsize" on line 337 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "axes.labelpad" on line 180 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "figure.titleweight" on line 303 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.flierprops.marker" on line 353 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "axes.spines.top" on line 219 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.boxprops.color" on line 344 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "contour.corner_mask" on line 334 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "image.composite_image" on line 330 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "xtick.minor.top" on line 248 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "ytick.minor.left" on line 266 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.flierprops.markerfacecolor" on line 355 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "axes.prop_cycle" on line 208 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "patch.force_edgecolor" on line 33 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.flierprops.markeredgecolor" on line 354 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "xtick.minor.visible" on line 238 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.medianprops.color" on line 361 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.meanprops.linewidth" on line 360 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.showcaps" on line 371 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "hatch.color" on line 37 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.meanprops.markeredgecolor" on line 364 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "lines.dotted_pattern" on line 20 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.showmeans" on line 373 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "date.autoformatter.second" on line 228 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "axes.grid.axis" on line 175 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "_internal.classic_mode" on line 521 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.patchartist" on line 369 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "lines.dashed_pattern" on line 18 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "xtick.alignment" on line 250 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.flierprops.linewidth" on line 352 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "axes.spines.left" on line 217 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "axes.spines.right" on line 218 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.flierprops.markersize" on line 356 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.meanline" on line 357 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "xtick.top" on line 234 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "hatch.linewidth" on line 38 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "legend.edgecolor" on line 296 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "ytick.minor.visible" on line 256 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "ytick.major.left" on line 264 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "axes.prop_cycle" on line 2 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/seaborn-dark-palette.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "axes.prop_cycle" on line 2 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/seaborn-muted.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "axes.prop_cycle" on line 2 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/seaborn-pastel.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "axes.prop_cycle" on line 34 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/Solarize_Light2.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "axes.prop_cycle" on line 2 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/seaborn-colorblind.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "xtick.bottom" on line 235 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.vertical" on line 372 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "hist.bins" on line 40 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.medianprops.linewidth" on line 365 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.boxprops.linestyle" on line 343 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.flierprops.color" on line 348 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "axes.titlepad" on line 177 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "figure.titlesize" on line 300 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "axes.autolimit_mode" on line 213 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "axes.formatter.offset_threshold" on line 200 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "date.autoformatter.hour" on line 226 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.meanprops.markersize" on line 363 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "lines.dashdot_pattern" on line 19 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "xtick.major.bottom" on line 247 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.meanprops.marker" on line 360 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "ytick.minor.right" on line 266 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "xtick.major.top" on line 246 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.capprops.color" on line 345 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "markers.fillstyle" on line 24 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "lines.scale_dashes" on line 21 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "axes.spines.bottom" on line 216 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.capprops.linewidth" on line 347 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.whiskers" on line 376 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "date.autoformatter.year" on line 223 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.capprops.linestyle" on line 346 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.showbox" on line 368 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "animation.html" on line 517 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.meanprops.linestyle" on line 357 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "ytick.right" on line 252 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.meanprops.color" on line 356 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "date.autoformatter.microsecond" on line 229 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.whiskerprops.linestyle" on line 374 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.showfliers" on line 370 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.whiskerprops.linewidth" on line 375 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.bootstrap" on line 341 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.meanprops.markerfacecolor" on line 361 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.medianprops.linestyle" on line 364 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.boxprops.linewidth" on line 344 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "ytick.left" on line 251 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "legend.facecolor" on line 293 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "xtick.minor.bottom" on line 249 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "ytick.major.right" on line 264 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "legend.edgecolor" on line 294 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "date.autoformatter.day" on line 225 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.notch" on line 366 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "scatter.marker" on line 338 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "date.autoformatter.month" on line 224 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "date.autoformatter.minute" on line 227 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+/usr/lib64/python3.4/site-packages/matplotlib/__init__.py:1039: UserWarning: Bad val "None" on line #291
+	"legend.framealpha    : None    # opacity of legend frame
+"
+	in file "/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle"
+	Key legend.framealpha: Could not convert "None" to float
+  (val, error_details, msg))
+
+Bad key "errorbar.capsize" on line 335 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "axes.labelpad" on line 180 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "figure.titleweight" on line 301 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.flierprops.marker" on line 351 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "axes.spines.top" on line 219 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.whiskerprops.color" on line 373 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "contour.corner_mask" on line 332 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "image.composite_image" on line 328 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "xtick.minor.top" on line 248 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "ytick.minor.left" on line 265 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.flierprops.markerfacecolor" on line 353 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "axes.prop_cycle" on line 208 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "patch.force_edgecolor" on line 33 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.flierprops.markeredgecolor" on line 352 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "xtick.minor.visible" on line 238 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.medianprops.color" on line 359 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.meanprops.linewidth" on line 358 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.showcaps" on line 369 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.flierprops.linestyle" on line 349 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "hatch.color" on line 37 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.meanprops.markeredgecolor" on line 362 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "lines.dotted_pattern" on line 20 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.showmeans" on line 371 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "date.autoformatter.second" on line 228 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "axes.grid.axis" on line 175 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "_internal.classic_mode" on line 519 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.patchartist" on line 367 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "lines.dashed_pattern" on line 18 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.flierprops.linewidth" on line 350 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "axes.spines.left" on line 217 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "axes.spines.right" on line 218 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.flierprops.markersize" on line 354 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.meanline" on line 355 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "xtick.top" on line 234 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "hatch.linewidth" on line 38 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "boxplot.boxprops.color" on line 342 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "ytick.minor.visible" on line 255 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "ytick.major.left" on line 263 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/_classic_test.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "axes.prop_cycle" on line 11 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/seaborn.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "axes.prop_cycle" on line 2 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/seaborn-bright.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+
+Bad key "axes.prop_cycle" on line 2 in
+/usr/lib64/python3.4/site-packages/matplotlib/mpl-data/stylelib/seaborn-deep.mplstyle.
+You probably need to get an updated matplotlibrc file from
+http://matplotlib.sf.net/_static/matplotlibrc or from the matplotlib source
+distribution
+/usr/lib64/python3.4/site-packages/matplotlib/font_manager.py:678: MatplotlibDeprecationWarning: The is_string_like function was deprecated in version 2.1.
+  if is_string_like(family):
+/usr/lib64/python3.4/site-packages/matplotlib/font_manager.py:825: MatplotlibDeprecationWarning: The is_string_like function was deprecated in version 2.1.
+  if is_string_like(family):
+/usr/lib64/python3.4/site-packages/matplotlib/font_manager.py:827: MatplotlibDeprecationWarning: The is_string_like function was deprecated in version 2.1.
+  elif (not is_string_like(family) and isinstance(family, Iterable)):
+/usr/lib64/python3.4/site-packages/matplotlib/text.py:187: MatplotlibDeprecationWarning: The is_string_like function was deprecated in version 2.1.
+  elif is_string_like(fontproperties):
+Traceback (most recent call last):
+  File "rw_visual.py", line 14, in <module>
+    plt.scatter(rw.x_values, rw.y_values, c=point_numbers, cmap=plt.cm.Blues, edgecolor='none', s=1)
+  File "/usr/lib64/python3.4/site-packages/matplotlib/pyplot.py", line 3191, in scatter
+    ax = gca()
+  File "/usr/lib64/python3.4/site-packages/matplotlib/pyplot.py", line 828, in gca
+    ax =  gcf().gca(**kwargs)
+  File "/usr/lib64/python3.4/site-packages/matplotlib/figure.py", line 1274, in gca
+    return self.add_subplot(1, 1, 1, **kwargs)
+  File "/usr/lib64/python3.4/site-packages/matplotlib/figure.py", line 964, in add_subplot
+    a = subplot_class_factory(projection_class)(self, *args, **kwargs)
+  File "/usr/lib64/python3.4/site-packages/matplotlib/axes/_subplots.py", line 78, in __init__
+    self._axes_class.__init__(self, fig, self.figbox, **kwargs)
+  File "/usr/lib64/python3.4/site-packages/matplotlib/axes/_base.py", line 425, in __init__
+    self._init_axis()
+  File "/usr/lib64/python3.4/site-packages/matplotlib/axes/_base.py", line 482, in _init_axis
+    self.xaxis = maxis.XAxis(self)
+  File "/usr/lib64/python3.4/site-packages/matplotlib/axis.py", line 666, in __init__
+    self.cla()
+  File "/usr/lib64/python3.4/site-packages/matplotlib/axis.py", line 754, in cla
+    self.reset_ticks()
+  File "/usr/lib64/python3.4/site-packages/matplotlib/axis.py", line 764, in reset_ticks
+    cbook.popall(self.majorTicks)
+AttributeError: 'module' object has no attribute 'popall'
