@@ -28,4 +28,4 @@ chart.title = 'Most-Starred Python Projects on GitHub'
 chart.x_labels = names
 
 chart.add('', stars)
-chart.render_to_file('/home/fnowicki/python_repos.svg')
+chart.render_to_file('/home/fnowicki/Programming/Python/chapter_17/python_repos.svg')
