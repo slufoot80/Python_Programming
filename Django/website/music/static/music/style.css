@@ -1,9 +1,9 @@
 li a:link {
-    color: white;
+    color: red;
 }
 
 li a:visited {
-    color: yellow;
+    color: blue;
 }
 
 body {
