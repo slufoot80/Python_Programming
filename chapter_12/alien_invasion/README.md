@@ -1,4 +1,8 @@
+Python Programming I decided I wanted to incorporate a new language into my skill set so I went with python. I started with OpenSuse Leap 43 running on virtual box. I purchased the book "Python Crash Course" by ematthes the book is very well written for new and experienced programmers, I only wanted to learn it so I can use it for scripting in linux administration. the book has some projects in it alien invasion is a very good project to learn how it all works together but after that some of the projects lack updates so I am now learning web scraping and django
+
 Alien invasion was written using the pygame engine, this game was split up between a number of different files and classes This approach allows me to pass around one settings object instead of many individual settings. In addition, it makes our function calls simpler and makes it easier to modify the game’s appearance as our project grows.
 
 
 In Alien Invasion, the player controls a ship that appears at the bottom center of the screen. The player can move the ship right and left using the arrow keys and shoot bullets using the spacebar. When the game begins, a fleet of aliens fills the sky and moves across and down the screen. The player shoots and destroys the aliens. If the player shoots all the aliens, a new fleet appears that moves faster than the previous fleet. If any alien hits the player’s ship or reaches the bottom of the screen, the player loses a ship. If the player loses three ships, the game ends.
+
+
